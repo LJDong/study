@@ -9,7 +9,7 @@
 class Sort
 {
     public static function run(){
-        echo 'test';
+        echo 'test1';
     }
 }
 Sort::run();
