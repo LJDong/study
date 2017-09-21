@@ -9,6 +9,7 @@
 class Sort
 {
     public static function run(){
+
         echo 'test1';
     }
 }
